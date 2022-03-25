@@ -19,7 +19,7 @@
   },
   "homepage": "https://github.com/fukunagaa/electron-training#readme",
   "dependencies": {
-    "electron": "^9.0.4",
+    "electron": "^13.6.6",
     "electron-packager": "^14.2.1"
   }
 }
